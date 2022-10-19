@@ -10,4 +10,5 @@ El propósito es el de facilitarle a los alumnos herramientas para comprender la
 - Comprender diagramas de conexión
 
 ### Autores
-<td align="center"><a href="https://github.com/diegohpezet"><img src="https://avatars.githubusercontent.com/u/74683374?v=4?s=100" width="100px;" alt="Diego Pezet"/><br /><sub><b>Pezet Diego</b></sub></a><br/><a href=asd title="Diseño">🎨</a>  <a href=asd title="Programacion">💻</a> <a href=asd title="Idea Inicial">💡</a></td>
+<td align="center"><a href="https://github.com/diegohpezet"><img src="https://avatars.githubusercontent.com/u/74683374?v=4?s=100" width="100px;" alt="Diego Pezet"/><br /><sub><b>Pezet Diego</b></sub></a><br/></td>
+<td align="center"><a href="https://github.com/Zero1Exp"><img src="https://avatars.githubusercontent.com/u/101415313?v=4?s=100" width="100px;" alt="Tobias Reyes"/><br /><sub><b>Tobias Reyes</b></sub></td>
