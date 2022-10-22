@@ -4,6 +4,10 @@ const int IN2 = 4;  // Pin digital 12 para controlar sentido giro motor izquierd
 // Definición de variables y constantes relacionadas con el motor derecho
 const int IN3 = 3;  // Pin digital 11 para controlar sentido giro motor izquierdo
 const int IN4 = 2;  // Pin digital 10 para controlar sentido giro motor izquierdo
+
+//Definición de variables y constantes para reducir la velocidad de los motores
+const int ENA = 6;
+const int ENB = 7;
  
  
 // Definición de variables y constantes relacionadas con los sensores IR
@@ -20,8 +24,14 @@ void setup()
   pinMode (IN2, OUTPUT);
   pinMode (IN3, OUTPUT);
   pinMode (IN4, OUTPUT);
+  pinMode (ENA, OUTPUT);
+  pinMode (ENB, OUTPUT);
   pinMode( sensorIzqPin  , INPUT) ;
   pinMode( sensorDerPin  , INPUT) ;
+  // Se establece la velocidad
+  analogWrite(ENA,170);
+  analogWrite(ENB,170);
+  //
   Serial.begin(9600); // Se inicia el puerto de comunicaciones en serie
 }
  
