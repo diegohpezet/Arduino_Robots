@@ -8,6 +8,7 @@ El propósito es el de facilitarle a los alumnos herramientas para comprender la
 - Conocimiento de Arduino
 - Base en electrónica
 - Comprender diagramas de conexión
+- En las últimas versiones ya viene instalada, pero ante cualquier problema, la libreria <a href="https://www.arduino.cc/reference/en/libraries/l298n_motordriver/">Motor Driver</a> es necesaria
 
 ### Autores
 <table>
